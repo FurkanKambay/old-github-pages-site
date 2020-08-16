@@ -34,31 +34,36 @@ social_media:
 topics:
   - name: C#
     web_url: https://github.com/topics/csharp
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
+    image_url: ./assets/logos/csharp.png
 
   - name: .NET
     web_url: https://github.com/topics/dotnet
-    image_url: https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png
+    image_url: ./assets/logos/dotnet.png
 
   - name: Git
     web_url: https://github.com/topics/git
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png
+    image_url: ./assets/logos/git.png
 
   - name: Unity
     web_url: https://github.com/topics/unity
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
+    image_url: ./assets/logos/unity.png
 
   - name: Python
     web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    image_url: ./assets/logos/python.png
+
+  - name: Blender
+    web_url: https://github.com/topics/blender
+    image_url: ./assets/logos/blender.png
+
+  - name: Electronics
+    web_url: https://github.com/topics/electronics
+
+  - name: Hacking
+  - web_url: https://github.com/topics/hacking
 
   - name: XAML
     web_url: https://github.com/topics/xaml
 
-  - name: WPF
-    web_url: https://github.com/topics/wpf
-
   - name: RegEx
     web_url: https://github.com/topics/regex
-
-  - name: Electronics
