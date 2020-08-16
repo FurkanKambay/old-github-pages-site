@@ -60,7 +60,7 @@ topics:
     web_url: https://github.com/topics/electronics
 
   - name: Hacking
-  - web_url: https://github.com/topics/hacking
+    web_url: https://github.com/topics/hacking
 
   - name: XAML
     web_url: https://github.com/topics/xaml
