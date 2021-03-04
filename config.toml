@@ -5,16 +5,16 @@ disableKinds = ["taxonomy", "term"]
 title = "Furkan Kambay - Software Engineer"
 
 [params.profile]
-  portrait = "/images/avatar.jpg"
+  portrait = "/images/whoami.png"
   firstname = "Furkan"
   lastname = "Kambay"
   title = "Software Engineer"
   bio = """
-  I am a self-taught software developer experienced in C#, C++, and Python.
+  I am a self-taught software developer mostly experienced in C#, C++, and Python.
   I care about writing clean and self-documenting code.
   
-  Recently, I am very interested in Unity game development and
-  I try to work on some of my ideas when I have time.
+  Recently, I am very interested in Unity game development
+  and I try to work on some of my ideas when I have time.
   
   I am also a beginner in penetration testing, reverse engineering, and electronics.
   """
@@ -22,8 +22,9 @@ title = "Furkan Kambay - Software Engineer"
 [params.contacts]
   github = "FurkanKambay"
   gitlab = "FurkanKambay"
-  stackoverflow = "4187549"
+  hackthebox = "122166"
   linkedin = "FurkanKambay"
+  stackoverflow = "4187549"
 
 [params.actions.source]
   name = "Site Source"
