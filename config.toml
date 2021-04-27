@@ -4,6 +4,10 @@ theme = "awesome-identity"
 disableKinds = ["taxonomy", "term"]
 title = "Furkan Kambay - Software Engineer"
 
+[params.opengraph]
+  description = "Software engineer, beginner in game development and penetration testing"
+  images = ["/images/whoami.png"]
+
 [params.profile]
   portrait = "/images/whoami.png"
   firstname = "Furkan"
