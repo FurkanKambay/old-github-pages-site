@@ -12,23 +12,21 @@ title = "Furkan Kambay - Software Engineer"
   portrait = "/images/whoami.png"
   firstname = "Furkan"
   lastname = "Kambay"
-  title = "Software Engineer"
+  title = "Software Engineer, Game Developer"
   bio = """
-  I am a self-taught software developer mostly experienced in C#, C++, and Python.
-  I care about writing clean and self-documenting code.
+  Hi, I'm Furkan. I'm a software engineer and game developer mostly experienced in C#, C++, Python, JavaScript.
+  I love working on projects that I'm passionate about and learning new things along the way.
   
-  Recently, I am very interested in Unity game development
-  and I try to work on some of my ideas when I have time.
+  I have experience in desktop/mobile apps, games in Unity, and some web development.
   
   I am also a beginner in penetration testing, reverse engineering, and electronics.
   """
 
 [params.contacts]
   github = "FurkanKambay"
-  gitlab = "FurkanKambay"
-  hackthebox = "122166"
   linkedin = "FurkanKambay"
   stackoverflow = "4187549"
+  hackthebox = "122166"
 
 [params.actions.source]
   name = "Site Source"
